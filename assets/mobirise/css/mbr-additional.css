@@ -1177,17 +1177,6 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-spgwCb1nfL {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-spgwCb1nfL .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-spgwCb1nfL H2 {
-  color: #ff3366;
-}
 .cid-rsGPJ3OuHi {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1233,6 +1222,7 @@ section.lazy-placeholder:after {
 .cid-rsGPJ3OuHi .price-figure {
   font-weight: 700;
   color: #ff3366;
+  text-align: right;
 }
 .cid-rsGPJ3OuHi .price-value {
   font-weight: 700;
